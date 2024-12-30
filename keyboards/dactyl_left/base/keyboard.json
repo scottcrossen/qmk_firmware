@@ -1,0 +1,6 @@
+{
+    "keyboard_name": "dactyl_left",
+    "usb": {
+        "pid": "0x8036"
+    }
+}
